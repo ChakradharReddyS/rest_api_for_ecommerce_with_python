@@ -1,5 +1,6 @@
 # rest_api_for_ecommerce_with_python
 
+Developed a rest api for e-commerce application that is used for transfer of data from app to database by using Kafka as message queue system
 
 # Complete Setup for MacOS/Linux 
 
